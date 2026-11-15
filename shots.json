@@ -1,0 +1,6 @@
+[
+  { "name": "1-start.jpg", "query": "?shot=start&seed=13" },
+  { "name": "2-play.jpg", "query": "?shot=play&seed=13" },
+  { "name": "3-play2.jpg", "query": "?shot=play2&seed=13" },
+  { "name": "4-end.jpg", "query": "?shot=end&seed=13" }
+]
